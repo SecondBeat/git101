@@ -1,2 +1,4 @@
 // file: new-1.txt
 chiyo chiyo chiyo chiyonoo
+
+doki doki doki doki
